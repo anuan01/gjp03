@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://m.tobyschachman.com/sitemap.xml
